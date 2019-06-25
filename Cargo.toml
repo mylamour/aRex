@@ -1,0 +1,10 @@
+[package]
+name = "aRex"
+version = "0.1.0"
+authors = ["mylamour <mylamour@163.com>"]
+edition = "2018"
+
+[dependencies]
+aho-corasick = "0.7"
+clap = "2"
+# read-process-memory = { git ="https://github.com/luser/read-process-memory" , branch="cirrus-mac"}
